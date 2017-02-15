@@ -4,7 +4,8 @@
 /*
 ***Author: Alex Seaver.
 ***Purpose: Constructs a class to hold lines of Shakespeare
-***Last Modified: February 1, 2017
+***Last Modified: February 15, 2017
+***Commented during GitHW
 */
 
 #include <iostream>
